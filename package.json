@@ -1,0 +1,26 @@
+{
+  "name": "promise-survey",
+  "version": "0.0.1",
+  "description": "A look at different promise architectures",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developintelligenceboulder/promise.git"
+  },
+  "author": "kamrenz@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/developintelligenceboulder/promise/issues"
+  },
+  "homepage": "https://github.com/developintelligenceboulder/promise#readme",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}
