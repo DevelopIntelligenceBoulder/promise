@@ -18,11 +18,6 @@
 	//Main
 	(function() {
 
-		//Getting the location from the location module
-		//DI.location.getLocation().then(function(coordinates) {
-		//	injectCoordinates(coordinates);
-		//});
-
         //Getting the location from the location module
         DI.location.getLocation(injectCoordinates);
 
