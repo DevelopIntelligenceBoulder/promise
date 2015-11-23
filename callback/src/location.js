@@ -21,9 +21,8 @@ DI.location = (function() {
 
 	/**
 	 * Gets the location from the browser.
-	 * @param successCallback is the callback on geolocation success
-     * @param failureCallback is the callback on geolocation failure
-	 * @return Promise promise that is fulfilled when the Geolocation has been found
+	 * @callback successCallback is the callback on geolocation success
+     * @callback failureCallback is the callback on geolocation failure
 	 **/
 	var getLocation = function getLocation(successCallback, failureCallback) {
 
