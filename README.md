@@ -19,6 +19,13 @@ A look a different promise architecture implementations.
 ## Angular Promise ES6 style
 `/promise-angular-es6-style` gives the Angular architecture, ES6-esque, for implementing promises.
 
+## Non-promise Based Architecture
+1 `callback` provides a tightly coupled modular communication architecture
+2 `messaging` provides a loosely coupled module communication architecture
+
+## Demos
+The `demos` folder provides the basics for interacting with geolocation and for writing a module based on the Revealing Module Pattern. It also gives an example of how to combine those concepts together.
+
 ## JavaScript Training
 Would you like to dig into this more. [DevelopIntelligence](http://www.developintelligence.com) can help. Take a look at our [Advanced JavaScript](http://www.developintelligence.com/catalog/web-development-training/core-javascript/advanced-javascript) to get your team up to speed!
 
