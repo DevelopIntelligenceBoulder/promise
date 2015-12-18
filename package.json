@@ -17,6 +17,10 @@
     "url": "https://github.com/developintelligenceboulder/promise/issues"
   },
   "homepage": "https://github.com/developintelligenceboulder/promise#readme",
+  "engines": {
+    "node": "5.1.0",
+    "npm": "3.3.12"
+  },
   "dependencies": {
     "angular": "^1.4.8",
     "babel-polyfill": "^6.2.0",
