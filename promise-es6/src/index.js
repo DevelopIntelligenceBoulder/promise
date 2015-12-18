@@ -17,9 +17,13 @@
 
 	//Main
 	(function() {
+
+		//Getting the location from the location module
 		DI.location.getLocation().then(function(coordinates) {
+			//Passing returned promise data
 			injectCoordinates(coordinates);
 		});
+
 	})();
 
 })();
