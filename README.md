@@ -1,5 +1,7 @@
 # promise
-A look a different promise architecture implementations.
+A look a different promise architecture implementations. There are a lot of options out there, so let's take a look at some of the options. As we get started remember this. There are really 2 ways of dealing with promises, the [jQuery](https://api.jquery.com/jQuery.Deferred/) way and the [Kris Kowal](https://github.com/kriskowal/q) way.
+
+To see any of these example in action head over to [http://promise-blog.azurewebsites.net/](http://promise-blog.azurewebsites.net/). You will just need to paste on the root you want to look at. If you want to see ES6 promises in action goto [http://promise-blog.azurewebsites.net/promise-es6/](http://promise-blog.azurewebsites.net/promise-es6/).
 
 ## jQuery Promise
 `/promise-jquery` gives the jQuery architecture for implementing promises.
